@@ -53,3 +53,13 @@
 
 
 12. Remote branch 
+  
+  - bikin branch baru 
+  - terus checkout ke branch baru tersebut 
+  - edit file lalu save 
+  - langsung j kita git commit -am "alasannya apa"
+  - mau cek dul boleh pake gis status
+  - lalu kita git push origin nama_branch
+  - ok udah kita ke web git nya nanti kita pindahin branch ke branch yg kita buat 
+    lalu ada nanti button compare & pull request
+    udah masuk nanti udah tulisan able merge udah kita masukin comman submit pull request
