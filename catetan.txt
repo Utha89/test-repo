@@ -1,0 +1,18 @@
+1. git init 
+2. git commit -m ""
+3. git status 
+4. git commit -am ""
+5. git branch => hasil :
+  * master
+6. bikin branch git branch staff / dosen => hasil : 
+  dosen
+* master
+  staff
+7. git log => history
+8. git log --all --decorate --oneline --graph
+9. pindah branch :
+
+  git checkout nama_branch
+
+
+
