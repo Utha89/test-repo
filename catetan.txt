@@ -32,4 +32,15 @@
     
     Nah ada jg misal delete branch baik itu udah di merge atau beloman kgga peduli :
     git branch -D staff
-  - 
+ 
+11. kita bikin git remote 
+   - jalanin git remote, hasil :
+     
+     $ git remote
+     origin
+
+   - git remote -v, hasil :
+     origin  https://github.com/Utha89/test-repo.git (fetch)
+     origin  https://github.com/Utha89/test-repo.git (push)
+
+
