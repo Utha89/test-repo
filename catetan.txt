@@ -15,4 +15,10 @@
   git checkout nama_branch
 
 
-
+10. untuk masalah merge : 
+  - fast forward artinya direct langsung cth dr master krena cabang langsung bisa ke dosen dan staff jd aman
+    jd istilah yg di dosen ingin di merge ke master 
+    caranya pastiin dulu branch atau head nya udah di master
+    klo udah tinggal jalanin :
+    git merge dosen
+  - 
