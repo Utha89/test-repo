@@ -21,4 +21,12 @@
     caranya pastiin dulu branch atau head nya udah di master
     klo udah tinggal jalanin :
     git merge dosen
+    melihat branch yg di merge :
+    git branch --merged, sehingga akan menghasilkan 
+    dosen,
+    *master
+    nah sekarang kita kagga perlu lg si branch dosen jd bisa kita apus :
+    git branch -d dosen
+    Nah ada jg misal delete branch baik itu udah di merge atau beloman kgga peduli :
+    git branch -D staff
   - 
