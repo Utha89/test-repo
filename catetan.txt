@@ -43,6 +43,12 @@
      origin  https://github.com/Utha89/test-repo.git (fetch)
      origin  https://github.com/Utha89/test-repo.git (push)
 
-   - git push -u origin master
+   - kalo sudah tinggal edit 
+     lnjut git add .
+     git commit -m "perubahan apa"
+     git push -u origin master
+     git push
+
+   - ambil paling terbaru terserah  antara git clone atau git pull  
 
 
