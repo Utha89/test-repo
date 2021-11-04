@@ -63,3 +63,5 @@
   - ok udah kita ke web git nya nanti kita pindahin branch ke branch yg kita buat 
     lalu ada nanti button compare & pull request
     udah masuk nanti udah tulisan able merge udah kita masukin comman submit pull request
+
+13. kita ke akun github satu nya buka repo td nanti di tab pull request ada notif suruh pull    
